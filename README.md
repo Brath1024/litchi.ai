@@ -18,7 +18,7 @@
 
 ##### 		新版本UI预计两周内发布，届时整体荔知AI的页面逻辑都将变化，老版本系统会在新版本发布后继续运营一个月；
 
-![image-20231106170214610](C:\Users\2718\AppData\Roaming\Typora\typora-user-images\image-20231106170214610.png)
+![image-20231106170214610](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231106171454445.png)
 
 
 
