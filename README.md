@@ -4,19 +4,20 @@
 
 ##### 👩‍🎓网站目前还在建设当中~
 
-> + React18
-> + Spring-Boot3
-> + JDK17
+> + React 18.x
+> + SpringBoot 3.x
+> + JDK 17.x
 
 
 
-# 前言
+# 荔知官方网站
 
-​		荔知站点
-​		https://brath.cn
-​		https://www.brath.cn
+ - https://brath.cn 
+ - https://www.brath.cn
 
-##### 		新版本UI预计两周内发布，届时整体荔知AI的页面逻辑都将变化，老版本系统会在新版本发布后继续运营一个月；
+# 新版 UI 抢先预览
+
+##### 		新版 UI 预计两周内发布，全新的 UI 交互和更适应人体工学的页面设计，时尚简约大气，紧跟时代潮流。（同时旧版本系统将会继续运营一个月）
 
 ![image-20231106170214610](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231106171454445.png)
 
@@ -24,7 +25,7 @@
 
 # 简介		
 
-​	荔知AI助手，是由Brath个人开发的一款全面AIGC站点，包含了市面上常用的各类LLM大模型，支持StableDiffusionAI绘画，目前稳定运营超过6个月，站点：https://brath.cn
+荔知AI助手，是由 Brath 个人开发的一款全面 AIGC 站点，包含了市面上常用的各类 LLM 大模型，支持 StableDiffusion AI 绘画，目前稳定运营超过六个月，点击 https://brath.cn 立即加入荔知，畅享 AI 世界！
 
 
 
@@ -49,7 +50,9 @@
 
 ## 进一步学习
 
-​		由于所有全部的工作都是由Brath一个人来完成，所以难免会出现一些BUG并没有修复，因为平时实在很忙，还希望大家发现BUG后，即时加入交流群与Brath沟通，并在Github提issue。
+由于所有全部的工作都是由 Brath 一个人来完成，所以难免会出现一些 Bug 并没有修复，因为平时实在很忙，还希望大家发现 Bug 后，即时加入交流群与 Brath 沟通，并在 GitHub 提 Issue。
+
+## 欢迎加入【荔知核心用户群】
 
 ![image-20231106170353473](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231106170353473.png) 												
 
