@@ -51,8 +51,7 @@
 由于所有全部的工作都是由 Brath 一个人来完成，所以难免会出现一些 Bug 并没有修复，因为平时实在很忙，还希望大家发现 Bug 后，即时加入交流群与 Brath 沟通，并在 GitHub 提 Issue。
 
 ## 欢迎加入【荔知核心用户群】
-
-![image-20231106170353473](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231106170353473.png) 												
-
+						
+添加Brath个人微信：Brath_code
 
 
